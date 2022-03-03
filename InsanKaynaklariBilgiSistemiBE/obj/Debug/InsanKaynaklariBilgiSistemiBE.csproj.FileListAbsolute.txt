@@ -1,0 +1,40 @@
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe.config
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csprojAssemblyReference.cache
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Form1.resources
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Properties.Resources.resources
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.GenerateResource.cache
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.CoreCompileInputs.cache
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\CAN\source\repos\InsanKaynaklariBilgiSistemiBE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe.config
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csprojAssemblyReference.cache
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Form1.resources
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Properties.Resources.resources
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\CAN\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe.config
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csprojAssemblyReference.cache
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Form1.resources
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Properties.Resources.resources
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.GenerateResource.cache
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.CoreCompileInputs.cache
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\Emine\Desktop\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe.config
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\bin\Debug\InsanKaynaklariBilgiSistemiBE.pdb
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csprojAssemblyReference.cache
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Form1.resources
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.Properties.Resources.resources
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.exe
+C:\Users\CAN\Desktop\180601015BurakCan_180601062EmineOzturk\İnsan Kaynakları Bilgi Sistemi BE\InsanKaynaklariBilgiSistemiBE\obj\Debug\InsanKaynaklariBilgiSistemiBE.pdb
